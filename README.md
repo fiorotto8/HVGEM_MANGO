@@ -1,6 +1,9 @@
 # HVGEM_MANGO
 .vi for HVGEM for MANGO
 
+The Output format is:
+*timestamp   DRIFT   GEM1    TRANSFER1   GEM2    TRANSFER2   GEM3    INDUCTION*
+
 ## Install the Kvaser driver to make it work!!
 For MANGO LNGS we are using this: https://www.kvaser.com/product/kvaser-leaf-light-hs-v2/
 
